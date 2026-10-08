@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Safe tap replacement",
+    "request": "Customer needs a leaking kitchen mixer tap replaced tomorrow. Standard access."
+  },
+  {
+    "name": "Needs clarification",
+    "request": "Customer needs a new hot water system."
+  },
+  {
+    "name": "Safety escalation",
+    "request": "Customer reports sparks from the switchboard and a burning smell."
+  },
+  {
+    "name": "Parts lookup",
+    "request": "Customer wants a tap repaired and asks whether we should bring a mixer tap and isolation valve."
+  }
+]
